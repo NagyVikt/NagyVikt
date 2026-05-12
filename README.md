@@ -1,6 +1,4 @@
-# Viktor Nagy
-
-I trade by day, mass-vibe-code with Claude and Codex by night.
+# Hi
 
 ## AI Usage
 
