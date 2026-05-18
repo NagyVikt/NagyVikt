@@ -1,56 +1,63 @@
-<h1 align="center">Hey, I'm Viktor 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Codex is a tool they said…</em><br/>
-  Creator of <b>GitGuardex</b>, <b>Colony</b> &amp; <b>Codex FleetUI</b> · Building from Slovakia 🇸🇰
-</p>
+# Hey, I'm Viktor 👋
 
-<p align="center">
-  <a href="https://webu.hu/"><img alt="Website" src="https://img.shields.io/badge/website-webu.hu-0A66C2?style=for-the-badge&logo=safari&logoColor=white"></a>
-  <a href="https://twitter.com/NagyViktordp"><img alt="X" src="https://img.shields.io/badge/@NagyViktordp-000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <img alt="Hireable" src="https://img.shields.io/badge/open%20to%20work-22c55e?style=for-the-badge">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=480&lines=Codex+is+a+tool+they+said%E2%80%A6;Creator+of+GitGuardex%2C+Colony+%26+Codex+FleetUI;Building+from+Slovakia+%F0%9F%87%B8%F0%9F%87%B0)](https://git.io/typing-svg)
 
----
+[![GitHub followers](https://img.shields.io/github/followers/NagyVikt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/NagyVikt)
+[![GitHub User's stars](https://img.shields.io/github/stars/NagyVikt?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/NagyVikt)
+[![Profile Views](https://komarev.com/ghpvc/?username=NagyVikt&style=for-the-badge&color=blueviolet)](https://github.com/NagyVikt)
+[![Open to Work](https://img.shields.io/badge/open%20to%20work-22c55e?style=for-the-badge)](https://webu.hu/)
 
-### 🛠 Stack I build with
-
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
+</div>
 
 ---
 
-### 🚀 Featured projects
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/recodeee/gitguardex">
-    <img alt="GitGuardex" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=gitguardex&theme=tokyonight&hide_border=true">
-  </a>
-  <a href="https://github.com/recodeee/colony">
-    <img alt="Colony" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=colony&theme=tokyonight&hide_border=true">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/recodeee/codex-fleetui">
-    <img alt="Codex FleetUI" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=codex-fleetui&theme=tokyonight&hide_border=true">
-  </a>
-</p>
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+
+*Shipping multi-agent systems from a Linux rig in Slovakia* 🇸🇰⚡
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/recodeee/gitguardex">
+  <img alt="GitGuardex" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=gitguardex&theme=tokyonight&hide_border=true">
+</a>
+<a href="https://github.com/recodeee/colony">
+  <img alt="Colony" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=colony&theme=tokyonight&hide_border=true">
+</a>
+
+<a href="https://github.com/recodeee/codex-fleetui">
+  <img alt="Codex FleetUI" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=codex-fleetui&theme=tokyonight&hide_border=true">
+</a>
+
+</div>
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="33%">
       <h4>🛡️ <a href="https://github.com/recodeee/gitguardex">GitGuardex</a></h4>
       <p>Guardrails for your Git workflow — catch secrets, risky pushes, and policy violations before they hit your remote.</p>
     </td>
-    <td valign="top">
+    <td valign="top" width="33%">
       <h4>🐜 <a href="https://github.com/recodeee/colony">Colony</a></h4>
       <p>A coordination layer for autonomous agents — orchestrate, observe, and ship multi-agent systems without the glue code.</p>
     </td>
-    <td valign="top">
+    <td valign="top" width="33%">
       <h4>🚁 <a href="https://github.com/recodeee/codex-fleetui">Codex FleetUI</a></h4>
       <p>Fleet view for Codex agents — manage parallel sessions, monitor runs, and steer your agent swarm from one UI.</p>
     </td>
@@ -59,21 +66,96 @@
 
 ---
 
-### 📊 GitHub in numbers
+## 📊 AI Usage Embed
 
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/NagyVikt?style=for-the-badge&logo=github&color=0A66C2&labelColor=000">
-  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=22c55e&labelColor=000&logo=github&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNagyVikt">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NagyVikt&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS">
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NagyVikt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagyVikt&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=1800">
-</p>
+[![Tokscale Stats](https://tokscale.ai/api/embed/NagyVikt/svg?sort=cost&compact=1)](https://tokscale.ai/u/NagyVikt)
+
+<details>
+<summary><b>GitHub embed snippet</b></summary>
+
+```md
+[![Tokscale Stats](https://tokscale.ai/api/embed/NagyVikt/svg?sort=cost&compact=1)](https://tokscale.ai/u/NagyVikt)
+```
+
+</details>
+
+</div>
 
 ---
 
-### 🤖 AI usage
+## 📈 GitHub in Numbers
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/NagyVikt/svg)](https://tokscale.ai/u/NagyVikt)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NagyVikt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagyVikt&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=1800">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NagyVikt&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/NagyVikt/NagyVikt/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://webu.hu/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagyVikt)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NagyViktordp)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🛡️ Shipping        GitGuardex — guardrails for Git workflows
+🐜 Building        Colony — multi-agent orchestration layer
+🚁 Steering        Codex FleetUI — control plane for agent swarms
+💬 Ask me about    Codex, Claude, multi-agent systems, Next.js + Rust
+⚡ Fun fact        Codex is a tool they said…
+```
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+*One must imagine a multi-agent system happy.*
+
+**🪨 The boulder never stops.**
+
+</div>
