@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Viktor 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Viktor%20Nagy&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Codex%20is%20a%20tool%20they%20said%E2%80%A6&descSize=18&descAlignY=60" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Codex+is+a+tool+they+said%E2%80%A6;Creator+of+GitGuardex%2C+Colony+%26+Codex+FleetUI;Building+from+Slovakia+%F0%9F%87%B8%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Creator+of+GitGuardex%2C+Colony+%26+Codex+FleetUI;Shipping+multi-agent+systems+from+Slovakia+%F0%9F%87%B8%F0%9F%87%B0;Linux+%E2%80%A2+Rust+%E2%80%A2+Next.js+%E2%80%A2+Claude+%26+Codex)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/NagyVikt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/NagyVikt)
 [![GitHub User's stars](https://img.shields.io/github/stars/NagyVikt?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/NagyVikt)
@@ -86,11 +86,24 @@
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NagyVikt&theme=tokyonight">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NagyVikt&theme=tokyonight">
+<a href="https://github.com/NagyVikt"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NagyVikt&theme=tokyonight" alt="Profile Details" /></a>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NagyVikt&theme=tokyonight">
-<img height="180" src="https://streak-stats.demolab.com?user=NagyVikt&theme=tokyonight&hide_border=true">
+<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NagyVikt&theme=tokyonight" alt="Repos per Language" /></a>
+<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NagyVikt&theme=tokyonight" alt="Top Languages by Commit" /></a>
+
+<a href="https://github.com/NagyVikt"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NagyVikt&theme=tokyonight&utcOffset=2" alt="Productive Time" /></a>
+
+<a href="https://streak-stats.demolab.com"><img height="180" src="https://streak-stats.demolab.com?user=NagyVikt&theme=tokyonight&hide_border=true" alt="Contribution Streak" /></a>
+
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NagyVikt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -110,7 +123,11 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/NagyVikt/NagyVikt/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NagyVikt/NagyVikt/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NagyVikt/NagyVikt/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/NagyVikt/NagyVikt/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
