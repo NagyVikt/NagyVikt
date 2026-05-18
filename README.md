@@ -32,34 +32,31 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/recodeee/gitguardex">
-  <img alt="GitGuardex" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=gitguardex&theme=tokyonight&hide_border=true">
-</a>
-<a href="https://github.com/recodeee/colony">
-  <img alt="Colony" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=colony&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/recodeee/codex-fleetui">
-  <img alt="Codex FleetUI" src="https://github-readme-stats.vercel.app/api/pin/?username=recodeee&repo=codex-fleetui&theme=tokyonight&hide_border=true">
-</a>
-
-</div>
-
 <table>
   <tr>
     <td valign="top" width="33%">
       <h4>🛡️ <a href="https://github.com/recodeee/gitguardex">GitGuardex</a></h4>
       <p>Guardrails for your Git workflow — catch secrets, risky pushes, and policy violations before they hit your remote.</p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/recodeee/gitguardex?style=flat-square&logo=github&color=0891b2&labelColor=1c1917">
+        <img alt="Language" src="https://img.shields.io/github/languages/top/recodeee/gitguardex?style=flat-square&labelColor=1c1917">
+      </p>
     </td>
     <td valign="top" width="33%">
       <h4>🐜 <a href="https://github.com/recodeee/colony">Colony</a></h4>
       <p>A coordination layer for autonomous agents — orchestrate, observe, and ship multi-agent systems without the glue code.</p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/recodeee/colony?style=flat-square&logo=github&color=0891b2&labelColor=1c1917">
+        <img alt="Language" src="https://img.shields.io/github/languages/top/recodeee/colony?style=flat-square&labelColor=1c1917">
+      </p>
     </td>
     <td valign="top" width="33%">
       <h4>🚁 <a href="https://github.com/recodeee/codex-fleetui">Codex FleetUI</a></h4>
       <p>Fleet view for Codex agents — manage parallel sessions, monitor runs, and steer your agent swarm from one UI.</p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/recodeee/codex-fleetui?style=flat-square&logo=github&color=0891b2&labelColor=1c1917">
+        <img alt="Language" src="https://img.shields.io/github/languages/top/recodeee/codex-fleetui?style=flat-square&labelColor=1c1917">
+      </p>
     </td>
   </tr>
 </table>
@@ -89,8 +86,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NagyVikt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagyVikt&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=1800">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NagyVikt&theme=tokyonight">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NagyVikt&theme=tokyonight">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NagyVikt&theme=tokyonight">
+<img height="180" src="https://streak-stats.demolab.com?user=NagyVikt&theme=tokyonight&hide_border=true">
 
 </div>
 
