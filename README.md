@@ -2,7 +2,7 @@
 
 # Hey, I'm Viktor 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=480&lines=Codex+is+a+tool+they+said%E2%80%A6;Creator+of+GitGuardex%2C+Colony+%26+Codex+FleetUI;Building+from+Slovakia+%F0%9F%87%B8%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Codex+is+a+tool+they+said%E2%80%A6;Creator+of+GitGuardex%2C+Colony+%26+Codex+FleetUI;Building+from+Slovakia+%F0%9F%87%B8%F0%9F%87%B0)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/NagyVikt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/NagyVikt)
 [![GitHub User's stars](https://img.shields.io/github/stars/NagyVikt?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/NagyVikt)
