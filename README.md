@@ -43,7 +43,7 @@
       </p>
     </td>
     <td valign="top" width="33%">
-      <h4>🐜 <a href="https://github.com/recodeee/colony">Colony</a></h4>
+      <h4>🐜 <a href="https://github.com/opencue/colony">Colony</a></h4>
       <p>A coordination layer for autonomous agents — orchestrate, observe, and ship multi-agent systems without the glue code.</p>
       <p>
         <img alt="Stars" src="https://img.shields.io/github/stars/recodeee/colony?style=flat-square&logo=github&color=0891b2&labelColor=1c1917">
@@ -51,7 +51,7 @@
       </p>
     </td>
     <td valign="top" width="33%">
-      <h4>🚁 <a href="https://github.com/recodeee/codex-fleetui">Codex FleetUI</a></h4>
+      <h4>🚁 <a href="https://github.com/opencue/cuecards">CueCards Claude Code Profile Manager</a></h4>
       <p>Fleet view for Codex agents — manage parallel sessions, monitor runs, and steer your agent swarm from one UI.</p>
       <p>
         <img alt="Stars" src="https://img.shields.io/github/stars/recodeee/codex-fleetui?style=flat-square&logo=github&color=0891b2&labelColor=1c1917">
