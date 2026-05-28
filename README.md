@@ -50,12 +50,12 @@
         <img alt="Language" src="https://img.shields.io/github/languages/top/recodeee/colony?style=flat-square&labelColor=1c1917">
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h4>🚁 <a href="https://github.com/opencue/cuecards">CueCards Claude Code Profile Manager</a></h4>
-      <p>Fleet view for Codex agents — manage parallel sessions, monitor runs, and steer your agent swarm from one UI.</p>
+<td valign="top" width="33%">
+      <h4>🎴 <a href="https://github.com/opencue/cuecards">CueCards — Agent Profile Manager</a></h4>
+      <p>Per-directory profiles for Claude Code &amp; Codex — auto-load just the skills, MCP servers, and plugins each project needs, before the agent launches.</p>
       <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/recodeee/codex-fleetui?style=flat-square&logo=github&color=0891b2&labelColor=1c1917">
-        <img alt="Language" src="https://img.shields.io/github/languages/top/recodeee/codex-fleetui?style=flat-square&labelColor=1c1917">
+        <img alt="Stars" src="https://img.shields.io/github/stars/opencue/cuecards?style=flat-square&logo=github&color=0891b2&labelColor=1c1917">
+        <img alt="Language" src="https://img.shields.io/github/languages/top/opencue/cuecards?style=flat-square&labelColor=1c1917">
       </p>
     </td>
   </tr>
